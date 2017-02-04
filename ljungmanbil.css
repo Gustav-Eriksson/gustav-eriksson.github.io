@@ -211,9 +211,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9d9d9', end
     margin: auto;
     height: 2em;
     width: 100%;
-    display: inline-flex;
-    align-items: baseline;
-    margin-right: auto;
     overflow: hidden;
     clear: both;
     font-size: 1.4em;
@@ -221,17 +218,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9d9d9', end
 #om{margin: 0 auto;
     height: ; display: inline-flex;
     align-items:center;
-    padding: 0;border-left:none;border-right: none; position: relative;top:4.3%
+    padding: 0;border-left:none;border-right: none; position: relative;top:-12.5%
     }
 #bilar{margin: 0 auto;
     padding: 0;
     height: ; display: inline-flex;
-    align-items:center;border-left:none;border-right: none;position: relative;top:4.3%
+    align-items:center;border-left:none;border-right: none;position: relative;top:-12.5%
     }
 #hem{margin: 0 auto;
     padding: 0;
     height: ; display: inline-flex;
-    align-items:center;border-left:none;border-right: none;position: relative;top:4.3%
+    align-items:center;border-left:none;border-right: none;position: relative;top:-12.5%
     
      }a:hover{-webkit-box-shadow:none;border-bottom: solid 0.2em gray}
 .active-page{-webkit-box-shadow:none;border-bottom: solid 0.2em gray}
