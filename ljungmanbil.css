@@ -205,16 +205,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9d9d9', end
     }
    
     #header-content{;
-    width:100%;height: 5.5em;max-width:none;
+    width:100%;height: 5.5em;max-width:100%;
     
-    min-width:none}
+    min-width:100%}
     
 #logo{display: block; height: 3em; margin:0 auto; float:none}
-#nav{float: none;
-    margin: auto;
+#nav{float: right;
+    margin: 0;
     height: 2em;
     width: 100%;
-    display: inline-flex;
+    display:inline-grid;
     align-items: baseline;
     margin-right: auto;
     overflow: hidden;
@@ -254,7 +254,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9d9d9', end
             text-align: center;
             }
     #info{position: relative;top: 4em}
-    #background{float: left;
+    #background{float: none;
     background-image:url(pexels-photo-191238.png);
     background-size: cover; 
     background-repeat: no-repeat; 
@@ -315,8 +315,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
     text-align: center
 }
 .ikoner{
-    height:40px; 
-    padding: 10px 0px 10px 40px}
+    height:1.5em; 
+    padding: 10px 10px 10px 10px}
 a:link, a:visited {
 color: inherit;
 text-decoration: none
