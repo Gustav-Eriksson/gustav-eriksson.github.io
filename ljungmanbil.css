@@ -193,7 +193,7 @@ background-image:url(bg3.png);
 
 @media screen and (max-width:639px){
     
-    #header{height:5em;position: fixed; top:0; width: 25em;border-bottom: none;z-index:1;margin: auto;
+    #header{height:5em;position: fixed; top:0; width: 100%;border-bottom: none;z-index:1;margin: auto;
     background: rgba(217,217,217,1);
 background: -moz-linear-gradient(left, rgba(217,217,217,1) 0%, rgba(255,255,255,1) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(217,217,217,1)), color-stop(100%, rgba(255,255,255,1)));
@@ -205,9 +205,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9d9d9', end
     }
    
     #header-content{;
-    width:25em;height: 5.5em;max-width:none;
+    width:100%;height: 5.5em;max-width:none;
     
-    min-width:none}}
+    min-width:none}
     
 #logo{display: block; height: 3em; margin:0 auto; float:none}
 #nav{float: none;
@@ -320,5 +320,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 a:link, a:visited {
 color: inherit;
 text-decoration: none
-}
-}
+    }}
