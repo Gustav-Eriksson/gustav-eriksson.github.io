@@ -147,14 +147,14 @@ background-image:url(images/bgbilar.jpg);
     background-position-x: center;
     background-position-y: center;}
 iframe{width:102%;
-height:811px;
+height:800px;
     position: relative;
     left:-10px;
-    top:-11px;
-    margin-top: 1px;}
+    to:-11px;
+    margin-top: px;}
 #iframe-container{ -webkit-overflow-scrolling: touch !important;
-overflow-y: scroll !important;
-  	overflow-y: scroll; max-width:1000px; margin:30px auto;height:800px;overflow: hidden;-webkit-box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.65);
+overflow-y: scroll!important;
+  	overflow-y: scroll; max-width:1000px; margin:30px auto;height:805px;overflow: hidden;-webkit-box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.65);
 -moz-box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.65);
 box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.65);border-radius: 5px}
 #header-2{
@@ -343,13 +343,13 @@ background-image:url(images/bgbilar.jpg);
     background-position-x: center;
     background-position-y: center;}    
 iframe{width:100%;
-height:45em;
+height:44.7em;
     position: relative;
     left:0;
     top:0%;
     margin-top: 0px;}
 #iframe-container{ -webkit-overflow-scrolling: touch !important;
-overflow-y: scroll !important; max-width:100%; margin:5em auto;height:45em;overflow: hidden;;-webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.35);
+overflow-y: scroll!important; max-width:100%; margin:5em auto;height:45em;overflow: hidden;;-webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.35);
 -moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.35);
 box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.35);border-radius: 0px}
 
